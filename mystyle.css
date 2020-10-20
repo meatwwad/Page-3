@@ -25,4 +25,5 @@ div {
   width: 150px;
 }
 
-p.double {border-style: double;}
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
