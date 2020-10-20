@@ -15,13 +15,13 @@ h2  {
 
 div {
   text-indent: 50px;
-  color: #ffe6ff;
+  color: ##ff66cc;
 }
 
 #hello {
   padding: 15px;
   background: #262673;
-  border: 2px double #f2e6ff;
+  border: 5px double #ac00e6;
   width: 150px;
 }
 
