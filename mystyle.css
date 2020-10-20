@@ -21,6 +21,7 @@ div {
 #hello {
   padding: 15px;
   background: #262673;
-  border: 2px double #f2e6ff;
+  border: 2px solid #f2e6ff;
   width: 150px;
 }
+p.double {border-style: double;}
