@@ -1,0 +1,26 @@
+body {
+  background-color: #9f9fdf;
+}
+
+h1 {
+  color: #fff;
+  margin-left: 50px;
+  word-spacing: 10px;
+}
+
+h2  {
+  color: #990099;
+  margin-left: 20px;
+}
+
+div {
+  text-indent: 50px;
+  color: #ffe6ff;
+}
+
+#hello  {
+  padding: 15px;
+  border: 2px double #f2e6ff
+  background: ##262673;
+  width: 50px;
+}
