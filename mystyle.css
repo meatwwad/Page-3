@@ -24,3 +24,5 @@ div {
   border: 2px double #f2e6ff;
   width: 150px;
 }
+
+p.double {border-style: double;}
